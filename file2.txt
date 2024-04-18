@@ -1,1 +1,5 @@
-﻿test string utf-8 encoded
+﻿#######
+#Python Lesson 2
+#v1.0
+
+numbers = [10, 20, 30]
