@@ -1,0 +1,8 @@
+###
+#Python Lesson 4
+#v1.0.0
+
+message = 'Hello World!'
+print(message)
+print(message[::-1])
+
