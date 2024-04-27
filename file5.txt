@@ -1,0 +1,11 @@
+#########
+# Python Lesson 5
+# v 1.0
+######
+
+abc = input()
+
+print(abc)
+
+
+
